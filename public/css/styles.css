@@ -1,0 +1,37 @@
+.navbar {
+    background-color: #008B8B;
+    border-bottom: 1px solid white;
+}
+
+.navbar h4 {
+    color: white;
+}
+
+.navbar h2 {
+    color: white;
+}
+
+.navbar-expand-sm {
+    background-color: #008B8B;
+}
+
+.navbar-expand-sm p {
+    color: white;
+}
+
+
+.nav-item {
+    margin-right: 10px; /* Menambahkan spasi di kanan setiap nav-link */
+}
+
+.nav-link {
+    font-weight: bold; /* Membuat teks menjadi tebal */
+}
+
+.nav-link {
+    font-size: 18px; /* Sesuaikan ukuran font sesuai kebutuhan */
+    margin-right: 20px; /* Sesuaikan margin kanan untuk penyesuaian spasi */
+}
+  
+
+
